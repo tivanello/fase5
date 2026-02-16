@@ -1,0 +1,25 @@
+# Python / venv
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+*.log
+
+# PDF
+
+POSTECH - tech Challenge - Fase 2.pdf
+
+# Se data tiver dados muito pesados/sensíveis, prefira ignorar:
+# data/
+# Ou ignore só os brutos:
+# data/raw/
