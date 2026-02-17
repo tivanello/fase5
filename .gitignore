@@ -15,9 +15,10 @@ Thumbs.db
 # Logs
 *.log
 
+"@ | Out-File -Encoding utf8 .gitignore
+
 # PDF
 
-POSTECH - tech Challenge - Fase 2.pdf
 
 # Se data tiver dados muito pesados/sensíveis, prefira ignorar:
 # data/
