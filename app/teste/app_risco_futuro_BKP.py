@@ -21,59 +21,39 @@ COLUNAS_PATH = BASE_DIR / "models" / "colunas_modelo_risco_futuro_c1.json"
 METADATA_PATH = BASE_DIR / "models" / "metadata_modelo_risco_futuro_c1.json"
 
 st.markdown(
-    """
-    <style>
-    div[role='radiogroup'] {
-        display: flex;
-        justify-content: center;
-        gap: 1rem;
-    }
-    div[role='radiogroup'] label {
-        background-color: rgba(33,150,243,0.08);
-        padding: 0.45rem 0.9rem;
-        border-radius: 10px;
-        border: 1px solid rgba(33,150,243,0.18);
-    }
-    </style>
-    """,
+    "<style>div[role='listbox'] ul{background-color: #6e42ad};</style>",
     unsafe_allow_html=True
 )
 
 st.markdown(
-    "<h1 style='text-align: center;'>📉 Predição de Risco Futuro de Defasagem Escolar</h1>",
+    "<h1 style='text-align: center;'>📉 Predição de Risco Futuro de Defasagem Escolar </h1>",
     unsafe_allow_html=True
 )
 
-st.markdown(
-    """
-    <div style="
-        background-color: rgba(33,150,243,0.15);
-        border-left: 6px solid rgba(33,150,243,1);
-        padding: 12px 16px;
-        border-radius: 6px;
-        margin-bottom: 18px;
-    ">
-        <b>Esta ferramenta permite estimar o risco futuro de defasagem escolar com base em informações do aluno. A análise pode ser realizada de duas formas:</b>
-        <ul style="margin-top: 8px; margin-bottom: 0;">
-            <li><b>Avaliação em grupo:</b> analisa vários alunos ao mesmo tempo com base em um arquivo enviado, indicando quais casos merecem mais atenção.</li>
-            <li><b>Avaliação individual:</b> analisa um aluno por vez a partir do preenchimento dos dados, indicando se há previsão de risco futuro de defasagem.</li>
-        </ul>
-    </div>
-    """,
-    unsafe_allow_html=True
-)
+st.markdown("""
+<div style="
+    background-color: rgba(33,150,243,0.15);
+    border-left: 6px solid rgba(33,150,243,1);
+    padding: 12px 16px;
+    border-radius: 6px;
+">
+    <b>Escolha o tipo de avaliação desejada:</b>
+    <ul style="margin-top: 8px; margin-bottom: 0;">
+        <li>Envie uma base de dados para análise de vários alunos (em grupo); ou</li>
+        <li>Preencha os dados de um aluno para avaliação individual.</li>
+    </ul>
+</div>
+""", unsafe_allow_html=True)
 
 # ==============================================================
 # CARREGAMENTO DOS ARTEFATOS
 # ==============================================================
 
 @st.cache_resource
-
 def carregar_modelo(caminho):
     return joblib.load(caminho)
 
 @st.cache_data
-
 def carregar_json(caminho):
     with open(caminho, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -96,9 +76,9 @@ except Exception as e:
     st.error(f"Erro ao carregar os artefatos do modelo.\n\n{e}")
     st.stop()
 
-# ==============================================================
+
 # FUNÇÕES AUXILIARES
-# ==============================================================
+# ======================
 
 def validar_colunas(df, colunas_esperadas):
     faltando = [c for c in colunas_esperadas if c not in df.columns]
@@ -138,46 +118,20 @@ def preparar_dataframe(df, colunas_esperadas):
 
     return df
 
-def ler_arquivo_upload(arquivo):
-    nome = arquivo.name.lower()
 
-    if nome.endswith(".csv"):
-        return pd.read_csv(arquivo)
-    if nome.endswith((".xlsx", ".xls")):
-        return pd.read_excel(arquivo)
-
-    raise ValueError("Formato de arquivo não suportado.")
-
-# ============================================================
 # ENTRADA DE DADOS
-# ============================================================
+# ======================
 
-st.markdown("<h2 style='text-align: center;'>✏️ Selecione o tipo de avaliação desejada.</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center;'>✏️ Tipo de avaliação</h2>", unsafe_allow_html=True)
 
-col_esq, col_centro, col_dir = st.columns([1, 2, 1])
-
-with col_centro:
-    tipo_avaliacao = st.radio(
-        "Selecione uma opção",
-        ["Avaliação em grupo", "Avaliação individual"],
-        index=None,
-        horizontal=True,
-        label_visibility="collapsed"
-    )
-
-if tipo_avaliacao is None:
-#    st.markdown("<div style='height: 12px;'></div>", unsafe_allow_html=True)
-#    st.info("Selecione o tipo de avaliação desejada.")
-    st.stop()
+aba_grupo, aba_individual = st.tabs(["👥 Avaliação em grupo", "👤 Avaliação individual"])
 
 
 # ============================================================
 # ABA 1 — AVALIAÇÃO EM GRUPO
 # ============================================================
-
-if tipo_avaliacao == "Avaliação em grupo":
-    st.markdown("<h2 style='text-align: center;'>📥 Upload da base de alunos</h2>", unsafe_allow_html=True)
-
+with aba_grupo:
+    st.markdown("<h2 style='text-align: center;'> 📥 Upload da base de alunos</h2>", unsafe_allow_html=True)
 
     arquivo = st.file_uploader(
     "Selecione ou arraste o arquivo da base de alunos",
@@ -336,54 +290,12 @@ ano_ingresso; inst_ensino_cat; fase_num; faseIdeal_num; target_defasagem_atual.
 
 Você também deve incluir coluna(s) extra(s), como RA, ID do aluno, Matricula.
 Essas informações são necessárias para que identifique o aluno, para identificação dos alunos.
-                
-Abaixo você poderá baixar um arquivo modelo para entender o formato esperado.
-                
-IMPORTANTE: O modelo de predição foi treinado com dados organizados nesse formato, então é importante seguir a estrutura para que as predições sejam geradas corretamente. 
         """)
-
-from io import BytesIO
-
-# ============================================================
-# ARQUIVO MODELO PARA DOWNLOAD
-# ============================================================
-df_modelo = pd.DataFrame([
-    {
-        "ano_base": 2024,
-        "IDA": 7.5,
-        "IEG": 8.1,
-        "IAA": 7.8,
-        "IPS": 6.9,
-        "IPP": 7.2,
-        "IPV": 6.8,
-        "idade_geral": 12,
-        "gênero": "Masculino",
-        "ano_ingresso": 2022,
-        "inst_ensino_cat": "Pública",
-        "fase_num": 5,
-        "faseIdeal_num": 5,
-        "target_defasagem_atual": 0,
-        "RA": "123456"
-    }
-])
-
-buffer = BytesIO()
-with pd.ExcelWriter(buffer, engine="openpyxl") as writer:
-    df_modelo.to_excel(writer, index=False, sheet_name="modelo_base")
-
-arquivo_modelo = buffer.getvalue()
-
-st.download_button(
-    label="📥 Baixar arquivo modelo em XLSX",
-    data=arquivo_modelo,
-    file_name="modelo_base_alunos.xlsx",
-    mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-)
 
 # ============================================================
 # ABA 2 — AVALIAÇÃO INDIVIDUAL
 # ============================================================
-if tipo_avaliacao == "Avaliação individual":
+with aba_individual:
     st.write("## 🎓 Dados do aluno")
     st.caption("Preencha os dados do aluno para realizar uma avaliação individual.")
 

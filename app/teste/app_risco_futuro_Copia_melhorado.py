@@ -15,7 +15,7 @@ st.set_page_config(
     layout="centered"
 )
 
-BASE_DIR = Path(__file__).resolve().parents[1]   # volta pra raiz do projeto
+BASE_DIR = Path(__file__).resolve().parents[1] # volta pra raiz do projeto
 MODEL_PATH = BASE_DIR / "models" / "modelo_risco_futuro_c1.joblib"
 COLUNAS_PATH = BASE_DIR / "models" / "colunas_modelo_risco_futuro_c1.json"
 METADATA_PATH = BASE_DIR / "models" / "metadata_modelo_risco_futuro_c1.json"
@@ -53,10 +53,10 @@ st.markdown(
         border-radius: 6px;
         margin-bottom: 18px;
     ">
-        <b>Esta ferramenta permite estimar o risco futuro de defasagem escolar com base em informações do aluno. A análise pode ser realizada de duas formas:</b>
+        <b>Escolha o tipo de avaliação desejada:</b>
         <ul style="margin-top: 8px; margin-bottom: 0;">
-            <li><b>Avaliação em grupo:</b> analisa vários alunos ao mesmo tempo com base em um arquivo enviado, indicando quais casos merecem mais atenção.</li>
-            <li><b>Avaliação individual:</b> analisa um aluno por vez a partir do preenchimento dos dados, indicando se há previsão de risco futuro de defasagem.</li>
+            <li><b>Avaliação em grupo:</b> envie uma base com vários alunos.</li>
+            <li><b>Avaliação individual:</b> preencha os dados de um único aluno.</li>
         </ul>
     </div>
     """,
@@ -107,8 +107,6 @@ def validar_colunas(df, colunas_esperadas):
 
 def preparar_dataframe(df, colunas_esperadas):
     df = df.copy()
-
-    # mantém apenas as colunas esperadas e na ordem correta
     df = df[colunas_esperadas]
 
     colunas_numericas = [
@@ -152,7 +150,7 @@ def ler_arquivo_upload(arquivo):
 # ENTRADA DE DADOS
 # ============================================================
 
-st.markdown("<h2 style='text-align: center;'>✏️ Selecione o tipo de avaliação desejada.</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center;'>✏️ Tipo de avaliação</h2>", unsafe_allow_html=True)
 
 col_esq, col_centro, col_dir = st.columns([1, 2, 1])
 
@@ -166,34 +164,30 @@ with col_centro:
     )
 
 if tipo_avaliacao is None:
-#    st.markdown("<div style='height: 12px;'></div>", unsafe_allow_html=True)
-#    st.info("Selecione o tipo de avaliação desejada.")
+    st.markdown("<div style='height: 12px;'></div>", unsafe_allow_html=True)
+    st.info("Selecione o tipo de avaliação desejada.")
     st.stop()
 
 
 # ============================================================
-# ABA 1 — AVALIAÇÃO EM GRUPO
+# BLOCO 1 — AVALIAÇÃO EM GRUPO
 # ============================================================
 
 if tipo_avaliacao == "Avaliação em grupo":
     st.markdown("<h2 style='text-align: center;'>📥 Upload da base de alunos</h2>", unsafe_allow_html=True)
 
-
     arquivo = st.file_uploader(
-    "Selecione ou arraste o arquivo da base de alunos",
-    type=["csv", "xlsx", "xls"],
-    key="upload_grupo"
-)
+        "Selecione ou arraste o arquivo da base de alunos",
+        type=["csv", "xlsx", "xls"],
+        key="upload_grupo"
+    )
 
     if arquivo is not None:
         try:
-            df_input = pd.read_csv(arquivo)
+            df_input = ler_arquivo_upload(arquivo)
         except Exception as e:
-            st.error(f"Erro ao ler o arquivo CSV.\n\n{e}")
+            st.error(f"Erro ao ler o arquivo enviado.\n\n{e}")
             st.stop()
-
-        st.write("## Pré-visualização do arquivo enviado")
-        st.dataframe(df_input.head(), use_container_width=True)
 
         faltando, extras = validar_colunas(df_input, feature_columns)
 
@@ -206,15 +200,13 @@ if tipo_avaliacao == "Avaliação em grupo":
         if extras:
             if "RA" in extras:
                 st.success(
-                    "Coluna de identificação detectada (RA). "
-                    "Ela será mantida no resultado para facilitar a identificação dos alunos."
+                    "Coluna de identificação detectada (RA). Ela será mantida no resultado para facilitar a identificação dos alunos."
                 )
 
             extras_sem_ra = [col for col in extras if col != "RA"]
             if extras_sem_ra:
                 st.info(
-                    f"Colunas adicionais encontradas: {extras_sem_ra}. "
-                    "Essas colunas não são usadas pelo modelo, mas serão preservadas na saída."
+                    f"Colunas adicionais encontradas: {extras_sem_ra}. Essas colunas não são usadas pelo modelo, mas serão preservadas na saída."
                 )
 
         X_novo = preparar_dataframe(df_input, feature_columns)
@@ -247,9 +239,7 @@ if tipo_avaliacao == "Avaliação em grupo":
                 else:
                     st.success("### Resultado: nenhum aluno foi classificado com previsão de defasagem")
 
-                st.write("---")
                 st.write("## Resumo")
-
                 col1, col2, col3 = st.columns(3)
                 with col1:
                     st.metric("Total de registros", len(df_resultado))
@@ -258,7 +248,6 @@ if tipo_avaliacao == "Avaliação em grupo":
                 with col3:
                     st.metric("Sem previsão de defasagem", qtd_sem_risco)
 
-                st.caption(f"Threshold usado: {threshold:.2f}  (proba ≥ threshold => 1)")
                 st.caption(f"Percentual com previsão de defasagem: {perc_risco:.1f}%")
 
                 st.write("## Alunos com previsão de defasagem")
@@ -305,7 +294,7 @@ if tipo_avaliacao == "Avaliação em grupo":
                 )
 
                 with st.expander("Ver arquivo original enviado"):
-                    st.caption("Esta é a base exatamente como foi enviada pelo usuário, incluindo colunas extras como RA.")
+                    st.caption("Esta é a base exatamente como foi enviada, incluindo colunas extras como RA.")
                     st.dataframe(df_input, use_container_width=True)
 
                 with st.expander("Ver base utilizada pelo modelo"):
@@ -313,75 +302,52 @@ if tipo_avaliacao == "Avaliação em grupo":
                     st.dataframe(X_novo, use_container_width=True)
 
                 with st.expander("Como esta análise foi feita"):
-                    st.write("""
-                Esta análise foi construída a partir de um modelo preditivo treinado com dados históricos de alunos.
+                    st.write(
+                        """
+O resultado foi gerado por um modelo treinado com dados de alunos de anos anteriores.
 
-                O modelo observa padrões em indicadores educacionais e na trajetória escolar, como desempenho, engajamento, fase atual, fase ideal e situação de defasagem no momento.
+Ele compara os dados informados com padrões já observados e estima a chance de o aluno entrar em defasagem ou piorar sua situação no período seguinte.
 
-                Com base nesses dados, ele estima a probabilidade de o aluno entrar em defasagem ou agravar uma defasagem já existente no período seguinte.
+A ideia é ajudar a identificar casos que merecem mais atenção.
 
-                Importante: este resultado é um apoio para análise e acompanhamento. Ele não deve ser usado sozinho como decisão final.
-                """)
+Este resultado serve como apoio à análise. Ele não substitui a avaliação da equipe responsável.
+                        """
+                    )
 
             except Exception as e:
                 st.error(f"Erro ao gerar predições.\n\n{e}")
                 st.stop()
 
     else:
-        st.info("""
-A avaliação em grupo recebe um arquivo CSV, XLSX e XLS com a base de alunos.
-    
-Colunas obrigatórias do modelo: ano_base; IDA; IEG; IAA; IPS; IPP; IPV; idade_geral; gênero; 
-ano_ingresso; inst_ensino_cat; fase_num; faseIdeal_num; target_defasagem_atual.  
+        st.info("A avaliação em grupo recebe arquivo CSV, XLSX ou XLS com a base de alunos.")
 
-Você também deve incluir coluna(s) extra(s), como RA, ID do aluno, Matricula.
-Essas informações são necessárias para que identifique o aluno, para identificação dos alunos.
-                
-Abaixo você poderá baixar um arquivo modelo para entender o formato esperado.
-                
-IMPORTANTE: O modelo de predição foi treinado com dados organizados nesse formato, então é importante seguir a estrutura para que as predições sejam geradas corretamente. 
-        """)
+        st.markdown("**Colunas obrigatórias do modelo:**")
+        st.markdown(
+            """
+- ano_base
+- IDA
+- IEG
+- IAA
+- IPS
+- IPP
+- IPV
+- idade_geral
+- Gênero
+- Ano ingresso
+- inst_ensino_cat
+- Fase_num
+- FaseIdeal_num
+- target_defasagem_atual
+            """
+        )
 
-from io import BytesIO
+        st.caption(
+            "Você também pode incluir colunas extras, como RA, ID do aluno ou matrícula. Elas não entram no modelo, mas ajudam na identificação dos alunos no resultado."
+        )
 
-# ============================================================
-# ARQUIVO MODELO PARA DOWNLOAD
-# ============================================================
-df_modelo = pd.DataFrame([
-    {
-        "ano_base": 2024,
-        "IDA": 7.5,
-        "IEG": 8.1,
-        "IAA": 7.8,
-        "IPS": 6.9,
-        "IPP": 7.2,
-        "IPV": 6.8,
-        "idade_geral": 12,
-        "gênero": "Masculino",
-        "ano_ingresso": 2022,
-        "inst_ensino_cat": "Pública",
-        "fase_num": 5,
-        "faseIdeal_num": 5,
-        "target_defasagem_atual": 0,
-        "RA": "123456"
-    }
-])
-
-buffer = BytesIO()
-with pd.ExcelWriter(buffer, engine="openpyxl") as writer:
-    df_modelo.to_excel(writer, index=False, sheet_name="modelo_base")
-
-arquivo_modelo = buffer.getvalue()
-
-st.download_button(
-    label="📥 Baixar arquivo modelo em XLSX",
-    data=arquivo_modelo,
-    file_name="modelo_base_alunos.xlsx",
-    mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-)
 
 # ============================================================
-# ABA 2 — AVALIAÇÃO INDIVIDUAL
+# BLOCO 2 — AVALIAÇÃO INDIVIDUAL
 # ============================================================
 if tipo_avaliacao == "Avaliação individual":
     st.write("## 🎓 Dados do aluno")
@@ -404,8 +370,7 @@ if tipo_avaliacao == "Avaliação individual":
 
     elif target_defasagem_txt == OP_SEM_INFO:
         st.warning(
-            "A avaliação individual não pode prosseguir sem a informação de defasagem atual. "
-            "O modelo final depende dessa variável para realizar a predição."
+            "A avaliação individual não pode prosseguir sem a informação de defasagem atual. O modelo final depende dessa variável para realizar a predição."
         )
 
     else:
@@ -487,37 +452,41 @@ if tipo_avaliacao == "Avaliação individual":
                 st.write("## Resultado da avaliação individual")
 
                 if pred == 1:
-                    st.markdown("""
-                    <div style="
-                        background-color: rgba(244,67,54,0.12);
-                        border-left: 6px solid rgba(244,67,54,1);
-                        padding: 14px 16px;
-                        border-radius: 6px;
-                        margin-bottom: 12px;
-                    ">
-                        <b style="font-size: 24px; color: #b00020;">Resultado: há previsão de defasagem</b><br>
-                        <span style="font-size: 17px;">
-                            Com os dados informados, o aluno foi classificado com previsão de defasagem
-                            e merece acompanhamento com maior atenção.
-                        </span>
-                    </div>
-                    """, unsafe_allow_html=True)
+                    st.markdown(
+                        """
+                        <div style="
+                            background-color: rgba(244,67,54,0.12);
+                            border-left: 6px solid rgba(244,67,54,1);
+                            padding: 14px 16px;
+                            border-radius: 6px;
+                            margin-bottom: 12px;
+                        ">
+                            <b style="font-size: 24px; color: #b00020;">Resultado: há previsão de defasagem</b><br>
+                            <span style="font-size: 17px;">
+                                Com os dados informados, o aluno foi classificado com previsão de defasagem e merece acompanhamento com maior atenção.
+                            </span>
+                        </div>
+                        """,
+                        unsafe_allow_html=True
+                    )
                 else:
-                    st.markdown("""
-                    <div style="
-                        background-color: rgba(76,175,80,0.12);
-                        border-left: 6px solid rgba(76,175,80,1);
-                        padding: 14px 16px;
-                        border-radius: 6px;
-                        margin-bottom: 12px;
-                    ">
-                        <b style="font-size: 24px; color: #1b5e20;">Resultado: sem previsão de defasagem</b><br>
-                        <span style="font-size: 17px;">
-                            Com os dados informados, o aluno não foi classificado com previsão de defasagem
-                            neste momento.
-                        </span>
-                    </div>
-                    """, unsafe_allow_html=True)
+                    st.markdown(
+                        """
+                        <div style="
+                            background-color: rgba(76,175,80,0.12);
+                            border-left: 6px solid rgba(76,175,80,1);
+                            padding: 14px 16px;
+                            border-radius: 6px;
+                            margin-bottom: 12px;
+                        ">
+                            <b style="font-size: 24px; color: #1b5e20;">Resultado: sem previsão de defasagem</b><br>
+                            <span style="font-size: 17px;">
+                                Com os dados informados, o aluno não foi classificado com previsão de defasagem neste momento.
+                            </span>
+                        </div>
+                        """,
+                        unsafe_allow_html=True
+                    )
 
                 st.metric(
                     "Probabilidade estimada de entrar ou agravar a defasagem",
@@ -525,9 +494,9 @@ if tipo_avaliacao == "Avaliação individual":
                 )
 
                 if pred == 1:
-                    st.write("**Situação prevista:** Com previsão de defasagem")
+                    st.write("**Resultado previsto:** o aluno apresenta previsão de defasagem.")
                 else:
-                    st.write("**Situação prevista:** Sem previsão de defasagem")
+                    st.write("**Resultado previsto:** o aluno não apresenta previsão de defasagem neste momento.")
 
                 if target_defasagem_txt == OP_SIM:
                     st.write("**Situação atual informada:** aluno já está em defasagem no momento.")
@@ -546,15 +515,17 @@ if tipo_avaliacao == "Avaliação individual":
                     st.dataframe(df_exibicao, use_container_width=True)
 
                 with st.expander("Como esta análise foi feita"):
-                    st.write("""
-                Esta análise foi construída a partir de um modelo preditivo treinado com dados históricos de alunos.
+                    st.write(
+                        """
+O resultado foi gerado por um modelo treinado com dados de alunos de anos anteriores.
 
-                O modelo observa padrões em indicadores educacionais e na trajetória escolar, como desempenho, engajamento, fase atual, fase ideal e situação de defasagem no momento.
+Ele compara os dados informados com padrões já observados e estima a chance de o aluno entrar em defasagem ou piorar sua situação no período seguinte.
 
-                Com base nesses dados, ele estima a probabilidade de o aluno entrar em defasagem ou agravar uma defasagem já existente no período seguinte.
+A ideia é ajudar a identificar casos que merecem mais atenção.
 
-                Importante: este resultado é um apoio para análise e acompanhamento. Ele não deve ser usado sozinho como decisão final.
-                """)
+Este resultado serve como apoio à análise. Ele não substitui a avaliação da equipe responsável.
+                        """
+                    )
 
             except ValueError:
                 st.error("Verifique os campos numéricos. Há valores inválidos ou não preenchidos corretamente.")

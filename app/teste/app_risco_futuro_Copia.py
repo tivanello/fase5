@@ -53,10 +53,10 @@ st.markdown(
         border-radius: 6px;
         margin-bottom: 18px;
     ">
-        <b>Esta ferramenta permite estimar o risco futuro de defasagem escolar com base em informações do aluno. A análise pode ser realizada de duas formas:</b>
+        <b>Escolha o tipo de avaliação desejada:</b>
         <ul style="margin-top: 8px; margin-bottom: 0;">
-            <li><b>Avaliação em grupo:</b> analisa vários alunos ao mesmo tempo com base em um arquivo enviado, indicando quais casos merecem mais atenção.</li>
-            <li><b>Avaliação individual:</b> analisa um aluno por vez a partir do preenchimento dos dados, indicando se há previsão de risco futuro de defasagem.</li>
+            <li><b>Avaliação em grupo:</b> envie uma base com vários alunos.</li>
+            <li><b>Avaliação individual:</b> preencha os dados de um único aluno.</li>
         </ul>
     </div>
     """,
@@ -152,7 +152,7 @@ def ler_arquivo_upload(arquivo):
 # ENTRADA DE DADOS
 # ============================================================
 
-st.markdown("<h2 style='text-align: center;'>✏️ Selecione o tipo de avaliação desejada.</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center;'>✏️ Tipo de avaliação</h2>", unsafe_allow_html=True)
 
 col_esq, col_centro, col_dir = st.columns([1, 2, 1])
 
@@ -166,8 +166,8 @@ with col_centro:
     )
 
 if tipo_avaliacao is None:
-#    st.markdown("<div style='height: 12px;'></div>", unsafe_allow_html=True)
-#    st.info("Selecione o tipo de avaliação desejada.")
+    st.markdown("<div style='height: 12px;'></div>", unsafe_allow_html=True)
+    st.info("Selecione o tipo de avaliação desejada.")
     st.stop()
 
 
