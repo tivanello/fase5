@@ -81,6 +81,21 @@ Além disso, o app aceita colunas extras, como:
 Essas colunas adicionais não entram no cálculo do modelo, mas são preservadas na saída para facilitar a identificação do aluno.
 
 ---
+## Ambiente utilizado no app
+
+Este app foi desenvolvido e testado no seguinte ambiente:
+
+- Python: 3.11.6
+- Streamlit: 1.55.0
+- pandas: 2.3.3
+- numpy: 2.4.3
+- scikit-learn: 1.6.1
+- joblib: 1.5.3
+- openpyxl: 3.1.5
+- xlrd: 2.0.2
+- xlsxwriter: 3.2.9
+
+Essas versões foram registradas para reduzir risco de incompatibilidade no deploy, especialmente na carga dos artefatos do modelo serializados em joblib.
 
 ## Como executar localmente
 
