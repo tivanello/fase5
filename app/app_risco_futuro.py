@@ -1,9 +1,35 @@
+# ==============================================================
+# APP DE PREDIÇÃO DE RISCO FUTURO DE DEFASAGEM ESCOLAR
+# ==============================================================
+
 from PIL import Image
 import streamlit as st
 import pandas as pd
 import joblib
 import json
 from pathlib import Path
+from io import BytesIO
+
+# ==============================================================
+# Função para aceitar , como separador decimal na entrada individual
+# ==============================================================
+
+def ler_decimal_br(valor_texto):
+    if valor_texto is None:
+        return None
+
+    valor_texto = str(valor_texto).strip()
+
+    if valor_texto == "":
+        return None
+
+    valor_texto = valor_texto.replace(",", ".")
+
+    try:
+        return float(valor_texto)
+    except ValueError:
+        return None
+
 
 # ==============================================================
 # CONFIGURAÇÃO
@@ -373,12 +399,18 @@ with pd.ExcelWriter(buffer, engine="openpyxl") as writer:
 
 arquivo_modelo = buffer.getvalue()
 
-st.download_button(
-    label="📥 Baixar arquivo modelo em XLSX",
-    data=arquivo_modelo,
-    file_name="modelo_base_alunos.xlsx",
-    mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-)
+if tipo_avaliacao == "Avaliação em grupo":
+    st.info("...")
+
+    st.download_button(
+        label="📥 Baixar arquivo modelo em XLSX",
+        data=arquivo_modelo,
+        file_name="modelo_base_alunos.xlsx",
+        mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    )
+
+elif tipo_avaliacao == "Avaliação individual":
+    st.write("Formulário individual")
 
 # ============================================================
 # ABA 2 — AVALIAÇÃO INDIVIDUAL
@@ -449,6 +481,39 @@ if tipo_avaliacao == "Avaliação individual":
                     "Fase atual": fase_num_txt,
                     "Fase ideal": fase_ideal_num_txt,
                     "Defasagem atual": target_defasagem_txt,
+                }
+
+                faltando = [campo for campo, valor in campos_obrigatorios.items() if str(valor).strip() == ""]
+                if faltando:
+                    st.error(f"Preencha todos os campos obrigatórios. Campos faltantes: {faltando}")
+                    st.stop()
+
+                # normaliza entradas
+                ano_base = ano_base.strip()
+                IDA = IDA.strip().replace(",", ".")
+                IEG = IEG.strip().replace(",", ".")
+                IAA = IAA.strip().replace(",", ".")
+                IPS = IPS.strip().replace(",", ".")
+                IPP = IPP.strip().replace(",", ".")
+                IPV = IPV.strip().replace(",", ".")
+                idade_geral = idade_geral.strip()
+                ano_ingresso = ano_ingresso.strip()
+
+                linha = {
+                    "ano_base": int(ano_base),
+                    "IDA": float(IDA),
+                    "IEG": float(IEG),
+                    "IAA": float(IAA),
+                    "IPS": float(IPS),
+                    "IPP": float(IPP),
+                    "IPV": float(IPV),
+                    "idade_geral": int(idade_geral),
+                    "Gênero": genero,
+                    "Ano ingresso": int(ano_ingresso),
+                    "inst_ensino_cat": inst_ensino_cat,
+                    "Fase_num": mapa_fase[fase_num_txt],
+                    "FaseIdeal_num": mapa_fase[fase_ideal_num_txt],
+                    "target_defasagem_atual": 1 if target_defasagem_txt == OP_SIM else 0,
                 }
 
                 faltando = [campo for campo, valor in campos_obrigatorios.items() if str(valor).strip() == ""]
@@ -557,7 +622,7 @@ if tipo_avaliacao == "Avaliação individual":
                 """)
 
             except ValueError:
-                st.error("Verifique os campos numéricos. Há valores inválidos ou não preenchidos corretamente.")
+                st.error("Verifique os campos numéricos. Você pode informar valores com vírgula ou ponto, por exemplo: 4,3 ou 4.3.")
             except Exception as e:
                 st.error(f"Erro ao gerar a avaliação individual.\n\n{e}")
                 st.stop()
