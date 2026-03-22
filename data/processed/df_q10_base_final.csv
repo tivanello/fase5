@@ -1,0 +1,1662 @@
+RA,Pedra 22,Pedra 23,Pedra 24,score_22,score_23,score_24,qtd_pontos_validos,elegivel_analise,analise,analise_resumida
+RA-1,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-10,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-100,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1000,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-1001,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-1002,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1003,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1004,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-1005,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1006,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-1007,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1008,,Topázio,Ágata,,4.0,2.0,2,Sim,Piora consistente,Piorou
+RA-1009,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-101,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1010,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1011,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1012,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-1013,,Ametista,Quartzo,,3.0,1.0,2,Sim,Piora consistente,Piorou
+RA-1014,,Topázio,Ágata,,4.0,2.0,2,Sim,Piora consistente,Piorou
+RA-1015,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-1016,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1017,,Ágata,Ametista,,2.0,3.0,2,Sim,Melhora consistente,Melhorou
+RA-1018,,Ágata,Ametista,,2.0,3.0,2,Sim,Melhora consistente,Melhorou
+RA-1019,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-102,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1020,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-1021,,Ágata,Topázio,,2.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-1022,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1023,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1024,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-1025,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-1026,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1027,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-1028,,Ágata,Ametista,,2.0,3.0,2,Sim,Melhora consistente,Melhorou
+RA-1029,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-103,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-1030,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1031,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-1032,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-1033,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1034,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-1035,,Ágata,Ametista,,2.0,3.0,2,Sim,Melhora consistente,Melhorou
+RA-1036,,Ágata,Topázio,,2.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-1037,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1038,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1039,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-104,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1040,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1041,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1042,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1043,,Ágata,Ametista,,2.0,3.0,2,Sim,Melhora consistente,Melhorou
+RA-1044,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1045,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1046,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1047,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1048,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1049,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-105,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1050,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1051,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1052,,Ágata,Ametista,,2.0,3.0,2,Sim,Melhora consistente,Melhorou
+RA-1053,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1054,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-1055,,Quartzo,Ágata,,1.0,2.0,2,Sim,Melhora consistente,Melhorou
+RA-1056,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1057,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1058,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1059,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-106,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-1060,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-1061,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1062,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1063,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1064,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1065,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1066,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1067,,Ágata,Ametista,,2.0,3.0,2,Sim,Melhora consistente,Melhorou
+RA-1068,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1069,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-107,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-1070,,Ágata,Ágata,,2.0,2.0,2,Sim,Estável,Estável
+RA-1071,,Ágata,Quartzo,,2.0,1.0,2,Sim,Piora consistente,Piorou
+RA-1072,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-1073,,Ágata,Ametista,,2.0,3.0,2,Sim,Melhora consistente,Melhorou
+RA-1074,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1075,,Ágata,Ágata,,2.0,2.0,2,Sim,Estável,Estável
+RA-1076,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1077,,Ametista,Quartzo,,3.0,1.0,2,Sim,Piora consistente,Piorou
+RA-1078,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1079,,Ágata,Quartzo,,2.0,1.0,2,Sim,Piora consistente,Piorou
+RA-108,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1080,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1081,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-1082,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-1083,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1084,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-1085,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1086,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1087,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-1088,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1089,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-109,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1090,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1091,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1092,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1093,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1094,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1095,,Ágata,Ágata,,2.0,2.0,2,Sim,Estável,Estável
+RA-1096,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1097,,Ágata,Quartzo,,2.0,1.0,2,Sim,Piora consistente,Piorou
+RA-1098,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-1099,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-11,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-110,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-1100,,Topázio,Ágata,,4.0,2.0,2,Sim,Piora consistente,Piorou
+RA-1101,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1102,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1103,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1104,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1105,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1106,,Ametista,Quartzo,,3.0,1.0,2,Sim,Piora consistente,Piorou
+RA-1107,,Ametista,Quartzo,,3.0,1.0,2,Sim,Piora consistente,Piorou
+RA-1108,,Ágata,Ágata,,2.0,2.0,2,Sim,Estável,Estável
+RA-1109,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-111,Topázio,Ametista,Topázio,4.0,3.0,4.0,3,Sim,Oscilou e terminou estável,Estável
+RA-1110,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1111,,Ágata,Ágata,,2.0,2.0,2,Sim,Estável,Estável
+RA-1112,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-1113,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1114,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1115,,Ágata,Ágata,,2.0,2.0,2,Sim,Estável,Estável
+RA-1116,,Ágata,Quartzo,,2.0,1.0,2,Sim,Piora consistente,Piorou
+RA-1117,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-1118,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1119,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-112,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-1120,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1121,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1122,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1123,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1124,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1125,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1126,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1127,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1128,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1129,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-113,Quartzo,,Ametista,1.0,,3.0,2,Sim,Melhora consistente,Melhorou
+RA-1130,,Topázio,Ágata,,4.0,2.0,2,Sim,Piora consistente,Piorou
+RA-1131,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1132,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1133,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1134,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1135,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1136,,Ágata,Quartzo,,2.0,1.0,2,Sim,Piora consistente,Piorou
+RA-1137,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-1138,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1139,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-114,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1140,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1141,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-1142,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1143,,Ágata,Quartzo,,2.0,1.0,2,Sim,Piora consistente,Piorou
+RA-1144,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1145,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1146,,Ágata,Quartzo,,2.0,1.0,2,Sim,Piora consistente,Piorou
+RA-1147,,Ametista,Quartzo,,3.0,1.0,2,Sim,Piora consistente,Piorou
+RA-1148,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1149,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-115,Quartzo,Ágata,Quartzo,1.0,2.0,1.0,3,Sim,Oscilou e terminou estável,Estável
+RA-1150,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1151,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-1152,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1153,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-1154,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1155,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1156,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-1157,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1158,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1159,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-116,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-1160,,Ágata,Ágata,,2.0,2.0,2,Sim,Estável,Estável
+RA-1161,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1162,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1163,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-1164,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1165,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1166,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1167,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1168,,Quartzo,Ágata,,1.0,2.0,2,Sim,Melhora consistente,Melhorou
+RA-1169,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-117,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1170,,Ágata,Ágata,,2.0,2.0,2,Sim,Estável,Estável
+RA-1171,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1172,,Ametista,Quartzo,,3.0,1.0,2,Sim,Piora consistente,Piorou
+RA-1173,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-1174,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1175,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1176,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1177,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1178,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-1179,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-118,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1180,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1181,,Ágata,Ágata,,2.0,2.0,2,Sim,Estável,Estável
+RA-1182,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1183,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1184,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-1185,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1186,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1187,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1188,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1189,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-119,Ametista,,Topázio,3.0,,4.0,2,Sim,Melhora consistente,Melhorou
+RA-1190,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1191,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1192,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1193,,Ágata,Ágata,,2.0,2.0,2,Sim,Estável,Estável
+RA-1194,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1195,,Quartzo,Ametista,,1.0,3.0,2,Sim,Melhora consistente,Melhorou
+RA-1196,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1197,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1198,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-1199,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-12,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-120,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1200,,Quartzo,Quartzo,,1.0,1.0,2,Sim,Estável,Estável
+RA-1201,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1202,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1203,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-1204,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1205,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1206,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1207,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-1208,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1209,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-121,Ametista,Ágata,Ametista,3.0,2.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-1210,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-1211,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1212,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1213,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1214,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-1215,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1216,,Ametista,,,3.0,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1217,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1218,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1219,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-122,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1220,,Ágata,Ametista,,2.0,3.0,2,Sim,Melhora consistente,Melhorou
+RA-1221,,Topázio,,,4.0,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1222,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1223,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1224,,Ametista,,,3.0,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1225,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1226,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1227,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1228,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1229,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-123,Ametista,Ágata,Ágata,3.0,2.0,2.0,3,Sim,Piora consistente,Piorou
+RA-1230,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1231,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1232,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1233,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1234,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1235,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1236,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1237,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1238,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1239,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-124,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1240,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1241,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1242,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1243,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1244,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1245,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1246,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1247,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1248,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1249,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-125,Ametista,Ágata,Ágata,3.0,2.0,2.0,3,Sim,Piora consistente,Piorou
+RA-1250,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1251,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1252,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1253,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1254,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1255,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1256,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1257,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1258,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1259,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-126,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1260,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1261,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1262,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1263,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1264,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1265,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1266,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1267,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1268,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1269,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-127,Topázio,Ametista,Topázio,4.0,3.0,4.0,3,Sim,Oscilou e terminou estável,Estável
+RA-1270,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1271,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1272,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1273,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1274,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1275,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1276,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1277,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1278,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1279,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-128,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1280,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1281,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1282,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1283,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1284,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1285,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1286,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1287,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1288,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1289,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-129,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1290,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1291,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1292,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1293,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1294,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1295,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1296,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1297,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1298,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1299,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-13,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-130,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1300,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1301,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1302,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1303,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1304,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1305,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1306,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1307,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1308,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1309,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-131,Ametista,Quartzo,Ametista,3.0,1.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-1310,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1311,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1312,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1313,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1314,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1315,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1316,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1317,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1318,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1319,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-132,Topázio,Ametista,Topázio,4.0,3.0,4.0,3,Sim,Oscilou e terminou estável,Estável
+RA-1320,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1321,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1322,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1323,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1324,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1325,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1326,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1327,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1328,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1329,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-133,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1330,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1331,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1332,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1333,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1334,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1335,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1336,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1337,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1338,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1339,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-134,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1340,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1341,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1342,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1343,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1344,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1345,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1346,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1347,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1348,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1349,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-135,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1350,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1351,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1352,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1353,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1354,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1355,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1356,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1357,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1358,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1359,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-136,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1360,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1361,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1362,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1363,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1364,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1365,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1366,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1367,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1368,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1369,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-137,Ametista,Quartzo,Ágata,3.0,1.0,2.0,3,Sim,"Oscilou, mas piorou no final",Piorou
+RA-1370,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1371,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1372,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1373,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1374,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1375,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1376,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1377,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1378,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1379,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-138,Ágata,Ágata,Ametista,2.0,2.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-1380,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1381,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1382,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1383,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1384,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1385,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1386,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1387,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1388,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1389,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-139,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1390,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1391,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1392,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1393,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1394,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1395,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1396,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1397,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1398,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1399,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-14,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-140,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1400,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1401,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1402,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1403,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1404,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1405,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1406,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1407,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1408,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1409,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-141,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1410,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1411,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1412,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1413,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1414,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1415,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1416,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1417,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1418,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1419,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-142,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1420,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1421,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1422,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1423,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1424,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1425,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1426,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1427,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1428,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1429,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-143,Topázio,Ametista,Ametista,4.0,3.0,3.0,3,Sim,Piora consistente,Piorou
+RA-1430,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1431,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1432,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1433,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1434,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1435,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1436,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1437,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1438,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1439,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-144,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1440,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1441,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1442,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1443,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1444,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1445,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1446,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1447,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1448,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1449,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-145,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1450,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1451,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1452,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1453,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1454,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1455,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1456,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1457,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1458,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1459,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-146,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-1460,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1461,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1462,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1463,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1464,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1465,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1466,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1467,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1468,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1469,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-147,Ametista,Quartzo,Ametista,3.0,1.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-1470,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1471,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1472,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1473,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1474,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1475,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1476,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1477,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1478,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1479,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-148,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1480,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1481,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1482,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1483,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1484,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1485,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1486,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1487,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1488,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1489,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-149,Ágata,Quartzo,Quartzo,2.0,1.0,1.0,3,Sim,Piora consistente,Piorou
+RA-1490,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1491,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1492,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1493,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1494,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1495,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1496,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1497,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1498,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1499,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-15,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-150,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1500,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1501,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1502,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1503,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1504,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1505,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1506,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1507,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1508,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1509,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-151,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1510,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1511,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1512,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1513,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1514,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1515,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1516,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1517,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1518,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1519,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-152,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-1520,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1521,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1522,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1523,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1524,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1525,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1526,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1527,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1528,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1529,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-153,Ametista,Ametista,Quartzo,3.0,3.0,1.0,3,Sim,Piora consistente,Piorou
+RA-1530,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1531,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1532,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1533,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1534,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1535,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1536,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1537,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1538,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1539,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-154,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1540,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1541,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1542,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1543,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1544,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1545,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1546,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1547,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1548,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1549,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-155,Ametista,Ágata,,3.0,2.0,,2,Sim,Piora consistente,Piorou
+RA-1550,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1551,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1552,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1553,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1554,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1555,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1556,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1557,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1558,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1559,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-156,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1560,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1561,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1562,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1563,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1564,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1565,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1566,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1567,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1568,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1569,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-157,Topázio,Ametista,Topázio,4.0,3.0,4.0,3,Sim,Oscilou e terminou estável,Estável
+RA-1570,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1571,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1572,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1573,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1574,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1575,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1576,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1577,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1578,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1579,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-158,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-1580,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1581,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1582,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1583,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1584,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1585,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1586,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1587,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1588,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1589,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-159,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1590,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1591,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1592,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1593,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1594,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1595,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1596,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1597,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1598,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1599,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-16,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-160,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-1600,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1601,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1602,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1603,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1604,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1605,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1606,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1607,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1608,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1609,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-161,Ametista,Ágata,Ametista,3.0,2.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-1610,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1611,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1612,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1613,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1614,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1615,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1616,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1617,,,Quartzo,,,1.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1618,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1619,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-162,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1620,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1621,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1622,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1623,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1624,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1625,,,Ágata,,,2.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1626,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1627,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1628,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1629,,,Ametista,,,3.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-163,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-1630,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1631,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1632,,,Topázio,,,4.0,1,Não,Informação insuficiente,Informação insuficiente
+RA-1633,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1634,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1635,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1636,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1637,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1638,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1639,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-164,Ágata,Quartzo,Ágata,2.0,1.0,2.0,3,Sim,Oscilou e terminou estável,Estável
+RA-1640,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1641,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1642,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1643,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1644,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1645,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1646,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1647,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1648,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1649,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-165,Topázio,Ametista,Topázio,4.0,3.0,4.0,3,Sim,Oscilou e terminou estável,Estável
+RA-1650,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1651,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1652,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1653,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1654,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1655,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1656,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1657,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1658,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1659,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-166,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-1660,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-1661,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-167,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-168,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-169,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-17,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-170,Ágata,Ametista,Ametista,2.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-171,Ágata,Ágata,Ametista,2.0,2.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-172,Topázio,,Topázio,4.0,,4.0,2,Sim,Estável,Estável
+RA-173,Ametista,Ametista,,3.0,3.0,,2,Sim,Estável,Estável
+RA-174,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-175,Ágata,Ágata,Topázio,2.0,2.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-176,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-177,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-178,Ágata,Ametista,Ametista,2.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-179,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-18,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-180,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-181,Topázio,Ametista,Ametista,4.0,3.0,3.0,3,Sim,Piora consistente,Piorou
+RA-182,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-183,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-184,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-185,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-186,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-187,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-188,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-189,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-19,Ametista,Ametista,,3.0,3.0,,2,Sim,Estável,Estável
+RA-190,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-191,Topázio,Ametista,Ametista,4.0,3.0,3.0,3,Sim,Piora consistente,Piorou
+RA-192,Quartzo,Ágata,Ágata,1.0,2.0,2.0,3,Sim,Melhora consistente,Melhorou
+RA-193,Topázio,Ametista,Topázio,4.0,3.0,4.0,3,Sim,Oscilou e terminou estável,Estável
+RA-194,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-195,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-196,Topázio,Ametista,Topázio,4.0,3.0,4.0,3,Sim,Oscilou e terminou estável,Estável
+RA-197,Topázio,Ametista,Topázio,4.0,3.0,4.0,3,Sim,Oscilou e terminou estável,Estável
+RA-198,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-199,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-2,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-20,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-200,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-201,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-202,Quartzo,Ágata,Ametista,1.0,2.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-203,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-204,Ágata,Ametista,Ametista,2.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-205,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-206,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-207,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-208,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-209,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-21,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-210,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-211,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-212,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-213,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-214,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-215,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-216,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-217,Ametista,Ágata,Ametista,3.0,2.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-218,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-219,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-22,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-220,Ágata,Ametista,Ametista,2.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-221,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-222,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-223,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-224,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-225,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-226,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-227,Ágata,Ametista,Topázio,2.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-228,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-229,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-23,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-230,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-231,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-232,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-233,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-234,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-235,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-236,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-237,Topázio,Ametista,Ametista,4.0,3.0,3.0,3,Sim,Piora consistente,Piorou
+RA-238,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-239,Quartzo,Ágata,Ágata,1.0,2.0,2.0,3,Sim,Melhora consistente,Melhorou
+RA-24,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-240,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-241,Topázio,Ametista,Topázio,4.0,3.0,4.0,3,Sim,Oscilou e terminou estável,Estável
+RA-242,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-243,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-244,Topázio,Ametista,Topázio,4.0,3.0,4.0,3,Sim,Oscilou e terminou estável,Estável
+RA-245,Topázio,Ametista,Topázio,4.0,3.0,4.0,3,Sim,Oscilou e terminou estável,Estável
+RA-246,Topázio,Topázio,Quartzo,4.0,4.0,1.0,3,Sim,Piora consistente,Piorou
+RA-247,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-248,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-249,Quartzo,Quartzo,Ágata,1.0,1.0,2.0,3,Sim,Melhora consistente,Melhorou
+RA-25,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-250,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-251,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-252,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-253,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-254,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-255,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-256,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-257,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-258,Ágata,,Ágata,2.0,,2.0,2,Sim,Estável,Estável
+RA-259,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-26,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-260,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-261,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-262,Quartzo,Quartzo,Quartzo,1.0,1.0,1.0,3,Sim,Estável,Estável
+RA-263,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-264,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-265,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-266,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-267,Ágata,,Quartzo,2.0,,1.0,2,Sim,Piora consistente,Piorou
+RA-268,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-269,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-27,Ametista,Ametista,,3.0,3.0,,2,Sim,Estável,Estável
+RA-270,Topázio,Ametista,Quartzo,4.0,3.0,1.0,3,Sim,Piora consistente,Piorou
+RA-271,Ametista,Ágata,Ametista,3.0,2.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-272,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-273,Quartzo,Ágata,Ágata,1.0,2.0,2.0,3,Sim,Melhora consistente,Melhorou
+RA-274,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-275,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-276,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-277,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-278,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-279,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-28,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-280,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-281,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-282,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-283,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-284,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-285,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-286,Quartzo,Quartzo,Quartzo,1.0,1.0,1.0,3,Sim,Estável,Estável
+RA-287,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-288,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-289,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-29,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-290,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-291,Topázio,Topázio,Ametista,4.0,4.0,3.0,3,Sim,Piora consistente,Piorou
+RA-292,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-293,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-294,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-295,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-296,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-297,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-298,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-299,Ametista,Ágata,Topázio,3.0,2.0,4.0,3,Sim,"Oscilou, mas melhorou no final",Melhorou
+RA-3,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-30,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-300,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-301,Ágata,Ágata,Topázio,2.0,2.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-302,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-303,Ágata,Quartzo,Ágata,2.0,1.0,2.0,3,Sim,Oscilou e terminou estável,Estável
+RA-304,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-305,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-306,Ágata,Quartzo,Ágata,2.0,1.0,2.0,3,Sim,Oscilou e terminou estável,Estável
+RA-307,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-308,Ágata,Ágata,Ametista,2.0,2.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-309,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-31,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-310,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-311,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-312,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-313,Quartzo,Ametista,Ametista,1.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-314,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-315,Quartzo,Quartzo,Ágata,1.0,1.0,2.0,3,Sim,Melhora consistente,Melhorou
+RA-316,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-317,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-318,Ágata,Ágata,Ametista,2.0,2.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-319,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-32,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-320,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-321,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-322,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-323,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-324,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-325,Ametista,Ágata,Topázio,3.0,2.0,4.0,3,Sim,"Oscilou, mas melhorou no final",Melhorou
+RA-326,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-327,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-328,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-329,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-33,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-330,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-331,Ágata,Ametista,Ágata,2.0,3.0,2.0,3,Sim,Oscilou e terminou estável,Estável
+RA-332,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-333,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-334,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-335,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-336,Ágata,Quartzo,Ágata,2.0,1.0,2.0,3,Sim,Oscilou e terminou estável,Estável
+RA-337,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-338,Ágata,Topázio,Topázio,2.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-339,Topázio,Ametista,Ametista,4.0,3.0,3.0,3,Sim,Piora consistente,Piorou
+RA-34,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-340,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-341,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-342,Ágata,Ametista,Ágata,2.0,3.0,2.0,3,Sim,Oscilou e terminou estável,Estável
+RA-343,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-344,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-345,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-346,Topázio,Ametista,Ametista,4.0,3.0,3.0,3,Sim,Piora consistente,Piorou
+RA-347,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-348,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-349,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-35,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-350,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-351,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-352,Ametista,Ametista,Quartzo,3.0,3.0,1.0,3,Sim,Piora consistente,Piorou
+RA-353,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-354,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-355,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-356,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-357,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-358,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-359,Ágata,Ametista,Ametista,2.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-36,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-360,Ametista,Quartzo,Ágata,3.0,1.0,2.0,3,Sim,"Oscilou, mas piorou no final",Piorou
+RA-361,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-362,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-363,Ágata,Ágata,Ametista,2.0,2.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-364,Topázio,Ametista,Topázio,4.0,3.0,4.0,3,Sim,Oscilou e terminou estável,Estável
+RA-365,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-366,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-367,Ágata,Ametista,Ametista,2.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-368,Ágata,Quartzo,Ágata,2.0,1.0,2.0,3,Sim,Oscilou e terminou estável,Estável
+RA-369,Ágata,Ágata,Quartzo,2.0,2.0,1.0,3,Sim,Piora consistente,Piorou
+RA-37,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-370,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-371,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-372,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-373,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-374,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-375,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-376,Ágata,Ametista,Quartzo,2.0,3.0,1.0,3,Sim,"Oscilou, mas piorou no final",Piorou
+RA-377,Ágata,Ametista,Ametista,2.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-378,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-379,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-38,Topázio,Topázio,,4.0,4.0,,2,Sim,Estável,Estável
+RA-380,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-381,Ágata,Quartzo,Quartzo,2.0,1.0,1.0,3,Sim,Piora consistente,Piorou
+RA-382,Ágata,Ágata,Quartzo,2.0,2.0,1.0,3,Sim,Piora consistente,Piorou
+RA-383,Topázio,Ametista,Topázio,4.0,3.0,4.0,3,Sim,Oscilou e terminou estável,Estável
+RA-384,Ametista,Ágata,Topázio,3.0,2.0,4.0,3,Sim,"Oscilou, mas melhorou no final",Melhorou
+RA-385,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-386,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-387,Ágata,Quartzo,Ágata,2.0,1.0,2.0,3,Sim,Oscilou e terminou estável,Estável
+RA-388,Ágata,Quartzo,Quartzo,2.0,1.0,1.0,3,Sim,Piora consistente,Piorou
+RA-389,Ametista,Ágata,Ametista,3.0,2.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-39,Ágata,Topázio,,2.0,4.0,,2,Sim,Melhora consistente,Melhorou
+RA-390,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-391,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-392,Ágata,Ágata,Quartzo,2.0,2.0,1.0,3,Sim,Piora consistente,Piorou
+RA-393,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-394,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-395,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-396,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-397,Quartzo,Ágata,Ágata,1.0,2.0,2.0,3,Sim,Melhora consistente,Melhorou
+RA-398,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-399,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-4,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-40,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-400,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-401,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-402,Quartzo,Ágata,Quartzo,1.0,2.0,1.0,3,Sim,Oscilou e terminou estável,Estável
+RA-403,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-404,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-405,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-406,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-407,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-408,Ágata,Ametista,Ágata,2.0,3.0,2.0,3,Sim,Oscilou e terminou estável,Estável
+RA-409,Topázio,Ametista,Topázio,4.0,3.0,4.0,3,Sim,Oscilou e terminou estável,Estável
+RA-41,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-410,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-411,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-412,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-413,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-414,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-415,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-416,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-417,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-418,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-419,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-42,Ágata,Ágata,Ametista,2.0,2.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-420,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-421,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-422,Ágata,Quartzo,Quartzo,2.0,1.0,1.0,3,Sim,Piora consistente,Piorou
+RA-423,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-424,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-425,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-426,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-427,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-428,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-429,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-43,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-430,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-431,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-432,Ágata,Ágata,Ametista,2.0,2.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-433,Quartzo,Ágata,Ametista,1.0,2.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-434,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-435,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-436,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-437,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-438,Ametista,Ágata,Ametista,3.0,2.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-439,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-44,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-440,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-441,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-442,Topázio,Ágata,Ágata,4.0,2.0,2.0,3,Sim,Piora consistente,Piorou
+RA-443,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-444,Ágata,Quartzo,Quartzo,2.0,1.0,1.0,3,Sim,Piora consistente,Piorou
+RA-445,Ágata,Ametista,Ametista,2.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-446,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-447,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-448,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-449,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-45,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-450,Ametista,Ágata,Ametista,3.0,2.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-451,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-452,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-453,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-454,Quartzo,Quartzo,Quartzo,1.0,1.0,1.0,3,Sim,Estável,Estável
+RA-455,Ágata,,Ametista,2.0,,3.0,2,Sim,Melhora consistente,Melhorou
+RA-456,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-457,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-458,Ágata,Ágata,Quartzo,2.0,2.0,1.0,3,Sim,Piora consistente,Piorou
+RA-459,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-46,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-460,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-461,Quartzo,Ametista,Ametista,1.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-462,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-463,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-464,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-465,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-466,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-467,Ágata,Ágata,Ametista,2.0,2.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-468,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-469,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-47,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-470,Ametista,Ágata,Ágata,3.0,2.0,2.0,3,Sim,Piora consistente,Piorou
+RA-471,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-472,Quartzo,Ágata,Ágata,1.0,2.0,2.0,3,Sim,Melhora consistente,Melhorou
+RA-473,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-474,Ágata,Quartzo,Ágata,2.0,1.0,2.0,3,Sim,Oscilou e terminou estável,Estável
+RA-475,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-476,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-477,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-478,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-479,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-48,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-480,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-481,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-482,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-483,Quartzo,Ágata,Ágata,1.0,2.0,2.0,3,Sim,Melhora consistente,Melhorou
+RA-484,Ágata,Quartzo,Quartzo,2.0,1.0,1.0,3,Sim,Piora consistente,Piorou
+RA-485,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-486,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-487,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-488,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-489,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-49,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-490,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-491,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-492,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-493,Topázio,Ametista,Ametista,4.0,3.0,3.0,3,Sim,Piora consistente,Piorou
+RA-494,Ágata,Ametista,Ametista,2.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-495,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-496,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-497,Ágata,Quartzo,Quartzo,2.0,1.0,1.0,3,Sim,Piora consistente,Piorou
+RA-498,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-499,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-5,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-50,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-500,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-501,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-502,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-503,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-504,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-505,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-506,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-507,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-508,Ágata,Ametista,Ágata,2.0,3.0,2.0,3,Sim,Oscilou e terminou estável,Estável
+RA-509,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-51,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-510,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-511,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-512,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-513,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-514,Ametista,Quartzo,Ágata,3.0,1.0,2.0,3,Sim,"Oscilou, mas piorou no final",Piorou
+RA-515,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-516,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-517,Ametista,Ágata,Quartzo,3.0,2.0,1.0,3,Sim,Piora consistente,Piorou
+RA-518,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-519,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-52,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-520,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-521,Ametista,Ágata,Ametista,3.0,2.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-522,Topázio,Ametista,Topázio,4.0,3.0,4.0,3,Sim,Oscilou e terminou estável,Estável
+RA-523,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-524,Ágata,Ametista,Ametista,2.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-525,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-526,Topázio,Topázio,Ametista,4.0,4.0,3.0,3,Sim,Piora consistente,Piorou
+RA-527,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-528,Quartzo,Ametista,Ametista,1.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-529,Ágata,Ametista,Quartzo,2.0,3.0,1.0,3,Sim,"Oscilou, mas piorou no final",Piorou
+RA-53,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-530,Topázio,Ametista,Ametista,4.0,3.0,3.0,3,Sim,Piora consistente,Piorou
+RA-531,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-532,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-533,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-534,Ametista,Quartzo,Ametista,3.0,1.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-535,Ágata,Topázio,Ametista,2.0,4.0,3.0,3,Sim,"Oscilou, mas melhorou no final",Melhorou
+RA-536,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-537,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-538,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-539,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-54,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-540,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-541,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-542,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-543,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-544,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-545,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-546,Ágata,Ágata,Quartzo,2.0,2.0,1.0,3,Sim,Piora consistente,Piorou
+RA-547,Ametista,Ágata,Ametista,3.0,2.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-548,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-549,Ágata,Ametista,Ágata,2.0,3.0,2.0,3,Sim,Oscilou e terminou estável,Estável
+RA-55,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-550,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-551,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-552,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-553,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-554,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-555,Quartzo,Quartzo,Quartzo,1.0,1.0,1.0,3,Sim,Estável,Estável
+RA-556,Ametista,Ametista,Quartzo,3.0,3.0,1.0,3,Sim,Piora consistente,Piorou
+RA-557,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-558,Quartzo,Ágata,Quartzo,1.0,2.0,1.0,3,Sim,Oscilou e terminou estável,Estável
+RA-559,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-56,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-560,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-561,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-562,Ametista,Ágata,Topázio,3.0,2.0,4.0,3,Sim,"Oscilou, mas melhorou no final",Melhorou
+RA-563,Topázio,Ametista,Topázio,4.0,3.0,4.0,3,Sim,Oscilou e terminou estável,Estável
+RA-564,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-565,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-566,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-567,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-568,Ametista,Ágata,Quartzo,3.0,2.0,1.0,3,Sim,Piora consistente,Piorou
+RA-569,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-57,Ametista,Ágata,Ametista,3.0,2.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-570,Quartzo,Ágata,Ágata,1.0,2.0,2.0,3,Sim,Melhora consistente,Melhorou
+RA-571,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-572,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-573,Topázio,Ametista,Ametista,4.0,3.0,3.0,3,Sim,Piora consistente,Piorou
+RA-574,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-575,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-576,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-577,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-578,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-579,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-58,Topázio,Ametista,Topázio,4.0,3.0,4.0,3,Sim,Oscilou e terminou estável,Estável
+RA-580,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-581,Ágata,Ametista,Ametista,2.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-582,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-583,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-584,Ágata,Ametista,Ágata,2.0,3.0,2.0,3,Sim,Oscilou e terminou estável,Estável
+RA-585,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-586,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-587,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-588,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-589,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-59,Ametista,Ametista,,3.0,3.0,,2,Sim,Estável,Estável
+RA-590,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-591,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-592,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-593,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-594,Ametista,Ágata,Ágata,3.0,2.0,2.0,3,Sim,Piora consistente,Piorou
+RA-595,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-596,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-597,Topázio,Topázio,Ametista,4.0,4.0,3.0,3,Sim,Piora consistente,Piorou
+RA-598,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-599,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-6,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-60,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-600,Ágata,Ametista,Ametista,2.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-601,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-602,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-603,Ametista,Ágata,Ágata,3.0,2.0,2.0,3,Sim,Piora consistente,Piorou
+RA-604,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-605,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-606,Ágata,Ametista,Ágata,2.0,3.0,2.0,3,Sim,Oscilou e terminou estável,Estável
+RA-607,Ágata,Ametista,Ametista,2.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-608,Ametista,Ametista,Quartzo,3.0,3.0,1.0,3,Sim,Piora consistente,Piorou
+RA-609,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-61,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-610,Topázio,Topázio,Ametista,4.0,4.0,3.0,3,Sim,Piora consistente,Piorou
+RA-611,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-612,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-613,Topázio,Ágata,Ametista,4.0,2.0,3.0,3,Sim,"Oscilou, mas piorou no final",Piorou
+RA-614,Topázio,Topázio,Ametista,4.0,4.0,3.0,3,Sim,Piora consistente,Piorou
+RA-615,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-616,Ametista,Quartzo,Quartzo,3.0,1.0,1.0,3,Sim,Piora consistente,Piorou
+RA-617,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-618,Ametista,Ágata,Ágata,3.0,2.0,2.0,3,Sim,Piora consistente,Piorou
+RA-619,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-62,Ametista,Ametista,,3.0,3.0,,2,Sim,Estável,Estável
+RA-620,Ágata,Ametista,Quartzo,2.0,3.0,1.0,3,Sim,"Oscilou, mas piorou no final",Piorou
+RA-621,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-622,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-623,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-624,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-625,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-626,Quartzo,Ametista,Ágata,1.0,3.0,2.0,3,Sim,"Oscilou, mas melhorou no final",Melhorou
+RA-627,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-628,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-629,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-63,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-630,Topázio,Ametista,Ágata,4.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-631,Ágata,Quartzo,Ágata,2.0,1.0,2.0,3,Sim,Oscilou e terminou estável,Estável
+RA-632,Ágata,Ametista,Ametista,2.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-633,Ametista,Ágata,Quartzo,3.0,2.0,1.0,3,Sim,Piora consistente,Piorou
+RA-634,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-635,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-636,Ametista,Ágata,Ágata,3.0,2.0,2.0,3,Sim,Piora consistente,Piorou
+RA-637,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-638,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-639,Ágata,Ametista,Quartzo,2.0,3.0,1.0,3,Sim,"Oscilou, mas piorou no final",Piorou
+RA-64,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-640,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-641,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-642,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-643,Ágata,Ametista,Ágata,2.0,3.0,2.0,3,Sim,Oscilou e terminou estável,Estável
+RA-644,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-645,Ágata,Ametista,Ametista,2.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-646,Topázio,Topázio,Ametista,4.0,4.0,3.0,3,Sim,Piora consistente,Piorou
+RA-647,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-648,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-649,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-65,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-650,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-651,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-652,Topázio,Ametista,Ametista,4.0,3.0,3.0,3,Sim,Piora consistente,Piorou
+RA-653,Topázio,Ametista,Topázio,4.0,3.0,4.0,3,Sim,Oscilou e terminou estável,Estável
+RA-654,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-655,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-656,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-657,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-658,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-659,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-66,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-660,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-661,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-662,Ametista,Ágata,Ametista,3.0,2.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-663,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-664,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-665,Ágata,Ágata,Quartzo,2.0,2.0,1.0,3,Sim,Piora consistente,Piorou
+RA-666,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-667,Quartzo,Ágata,Ametista,1.0,2.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-668,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-669,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-67,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-670,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-671,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-672,Ametista,Ágata,Quartzo,3.0,2.0,1.0,3,Sim,Piora consistente,Piorou
+RA-673,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-674,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-675,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-676,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-677,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-678,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-679,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-68,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-680,Ametista,Ágata,Quartzo,3.0,2.0,1.0,3,Sim,Piora consistente,Piorou
+RA-681,Ametista,Ágata,Ágata,3.0,2.0,2.0,3,Sim,Piora consistente,Piorou
+RA-682,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-683,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-684,Topázio,Ametista,Ametista,4.0,3.0,3.0,3,Sim,Piora consistente,Piorou
+RA-685,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-686,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-687,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-688,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-689,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-69,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-690,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-691,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-692,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-693,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-694,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-695,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-696,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-697,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-698,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-699,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-7,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-70,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-700,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-701,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-702,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-703,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-704,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-705,Ágata,Ágata,Quartzo,2.0,2.0,1.0,3,Sim,Piora consistente,Piorou
+RA-706,Ametista,Ametista,Quartzo,3.0,3.0,1.0,3,Sim,Piora consistente,Piorou
+RA-707,Ametista,Ágata,Ágata,3.0,2.0,2.0,3,Sim,Piora consistente,Piorou
+RA-708,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-709,Quartzo,Ágata,Ágata,1.0,2.0,2.0,3,Sim,Melhora consistente,Melhorou
+RA-71,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-710,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-711,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-712,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-713,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-714,Ágata,Ágata,Quartzo,2.0,2.0,1.0,3,Sim,Piora consistente,Piorou
+RA-715,Ágata,Quartzo,Quartzo,2.0,1.0,1.0,3,Sim,Piora consistente,Piorou
+RA-716,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-717,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-718,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-719,Quartzo,Ágata,Ametista,1.0,2.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-72,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-720,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-721,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-722,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-723,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-724,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-725,Ágata,Topázio,Ametista,2.0,4.0,3.0,3,Sim,"Oscilou, mas melhorou no final",Melhorou
+RA-726,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-727,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-728,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-729,Topázio,Ametista,Ágata,4.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-73,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-730,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-731,Ametista,Ágata,Quartzo,3.0,2.0,1.0,3,Sim,Piora consistente,Piorou
+RA-732,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-733,Ágata,Topázio,Topázio,2.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-734,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-735,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-736,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-737,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-738,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-739,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-74,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-740,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-741,Ágata,Ágata,Quartzo,2.0,2.0,1.0,3,Sim,Piora consistente,Piorou
+RA-742,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-743,Ágata,Ágata,Ametista,2.0,2.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-744,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-745,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-746,Ametista,Ágata,Ametista,3.0,2.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-747,Ametista,Ágata,Quartzo,3.0,2.0,1.0,3,Sim,Piora consistente,Piorou
+RA-748,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-749,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-75,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-750,Ágata,Quartzo,Quartzo,2.0,1.0,1.0,3,Sim,Piora consistente,Piorou
+RA-751,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-752,Topázio,Topázio,Ágata,4.0,4.0,2.0,3,Sim,Piora consistente,Piorou
+RA-753,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-754,Ágata,Ágata,Quartzo,2.0,2.0,1.0,3,Sim,Piora consistente,Piorou
+RA-755,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-756,Ágata,Ametista,Ametista,2.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-757,Topázio,Topázio,Ametista,4.0,4.0,3.0,3,Sim,Piora consistente,Piorou
+RA-758,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-759,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-76,Topázio,,Topázio,4.0,,4.0,2,Sim,Estável,Estável
+RA-760,Topázio,Ágata,Ágata,4.0,2.0,2.0,3,Sim,Piora consistente,Piorou
+RA-761,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-762,Ametista,Ametista,Quartzo,3.0,3.0,1.0,3,Sim,Piora consistente,Piorou
+RA-763,Ametista,Ágata,Ágata,3.0,2.0,2.0,3,Sim,Piora consistente,Piorou
+RA-764,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-765,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-766,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-767,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-768,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-769,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-77,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-770,Topázio,Ágata,Ametista,4.0,2.0,3.0,3,Sim,"Oscilou, mas piorou no final",Piorou
+RA-771,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-772,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-773,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-774,Ametista,Quartzo,Quartzo,3.0,1.0,1.0,3,Sim,Piora consistente,Piorou
+RA-775,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-776,Quartzo,Quartzo,Quartzo,1.0,1.0,1.0,3,Sim,Estável,Estável
+RA-777,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-778,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-779,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-78,Ametista,Ágata,Topázio,3.0,2.0,4.0,3,Sim,"Oscilou, mas melhorou no final",Melhorou
+RA-780,Ágata,Ametista,Ametista,2.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-781,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-782,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-783,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-784,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-785,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-786,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-787,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-788,Topázio,Ametista,Ametista,4.0,3.0,3.0,3,Sim,Piora consistente,Piorou
+RA-789,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-79,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-790,Ametista,Ágata,Ágata,3.0,2.0,2.0,3,Sim,Piora consistente,Piorou
+RA-791,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-792,Ágata,Ametista,Ágata,2.0,3.0,2.0,3,Sim,Oscilou e terminou estável,Estável
+RA-793,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-794,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-795,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-796,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-797,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-798,Ametista,Ametista,Quartzo,3.0,3.0,1.0,3,Sim,Piora consistente,Piorou
+RA-799,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-8,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-80,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-800,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-801,Ágata,Ágata,Ágata,2.0,2.0,2.0,3,Sim,Estável,Estável
+RA-802,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-803,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-804,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-805,Topázio,Ágata,Ágata,4.0,2.0,2.0,3,Sim,Piora consistente,Piorou
+RA-806,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-807,Topázio,Ametista,Ametista,4.0,3.0,3.0,3,Sim,Piora consistente,Piorou
+RA-808,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-809,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-81,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-810,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-811,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-812,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-813,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-814,Ametista,Topázio,Ametista,3.0,4.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-815,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-816,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-817,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-818,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-819,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-82,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-820,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-821,Ágata,,Ágata,2.0,,2.0,2,Sim,Estável,Estável
+RA-822,Ágata,Ágata,Quartzo,2.0,2.0,1.0,3,Sim,Piora consistente,Piorou
+RA-823,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-824,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-825,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-826,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-827,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-828,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-829,Ametista,Topázio,Topázio,3.0,4.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-83,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-830,Ametista,Ágata,Ametista,3.0,2.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-831,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-832,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-833,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-834,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-835,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-836,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-837,Topázio,Topázio,Ametista,4.0,4.0,3.0,3,Sim,Piora consistente,Piorou
+RA-838,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-839,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-84,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-840,Ametista,Ametista,Topázio,3.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-841,Ametista,Ágata,Ágata,3.0,2.0,2.0,3,Sim,Piora consistente,Piorou
+RA-842,Ametista,Ametista,Ametista,3.0,3.0,3.0,3,Sim,Estável,Estável
+RA-843,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-844,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-845,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-846,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-847,Ágata,Ágata,Quartzo,2.0,2.0,1.0,3,Sim,Piora consistente,Piorou
+RA-848,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-849,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-85,Ágata,Ametista,Ágata,2.0,3.0,2.0,3,Sim,Oscilou e terminou estável,Estável
+RA-850,Ametista,Ágata,Ametista,3.0,2.0,3.0,3,Sim,Oscilou e terminou estável,Estável
+RA-851,Ametista,Ágata,Ágata,3.0,2.0,2.0,3,Sim,Piora consistente,Piorou
+RA-852,Quartzo,,,1.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-853,Topázio,Ametista,Ametista,4.0,3.0,3.0,3,Sim,Piora consistente,Piorou
+RA-854,Topázio,Ágata,Ametista,4.0,2.0,3.0,3,Sim,"Oscilou, mas piorou no final",Piorou
+RA-855,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-856,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-857,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-858,Ametista,Ametista,Ágata,3.0,3.0,2.0,3,Sim,Piora consistente,Piorou
+RA-859,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-86,Ametista,,Ametista,3.0,,3.0,2,Sim,Estável,Estável
+RA-860,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-861,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-862,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-863,,Quartzo,Quartzo,,1.0,1.0,2,Sim,Estável,Estável
+RA-864,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-865,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-866,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-867,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-868,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-869,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-87,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-870,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-871,,Ágata,Ametista,,2.0,3.0,2,Sim,Melhora consistente,Melhorou
+RA-872,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-873,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-874,,Quartzo,Ametista,,1.0,3.0,2,Sim,Melhora consistente,Melhorou
+RA-875,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-876,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-877,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-878,,Ágata,Ágata,,2.0,2.0,2,Sim,Estável,Estável
+RA-879,,Ágata,Topázio,,2.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-88,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-880,,Ágata,Ágata,,2.0,2.0,2,Sim,Estável,Estável
+RA-881,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-882,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-883,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-884,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-885,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-886,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-887,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-888,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-889,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-89,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-890,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-891,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-892,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-893,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-894,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-895,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-896,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-897,,Quartzo,Quartzo,,1.0,1.0,2,Sim,Estável,Estável
+RA-898,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-899,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-9,Topázio,,,4.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-90,Topázio,Topázio,Topázio,4.0,4.0,4.0,3,Sim,Estável,Estável
+RA-900,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-901,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-902,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-903,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-904,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-905,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-906,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-907,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-908,,Topázio,Ágata,,4.0,2.0,2,Sim,Piora consistente,Piorou
+RA-909,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-91,Ágata,Ametista,Ametista,2.0,3.0,3.0,3,Sim,Melhora consistente,Melhorou
+RA-910,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-911,,Quartzo,Quartzo,,1.0,1.0,2,Sim,Estável,Estável
+RA-912,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-913,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-914,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-915,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-916,,Ametista,Quartzo,,3.0,1.0,2,Sim,Piora consistente,Piorou
+RA-917,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-918,,Ametista,Quartzo,,3.0,1.0,2,Sim,Piora consistente,Piorou
+RA-919,,Ágata,Quartzo,,2.0,1.0,2,Sim,Piora consistente,Piorou
+RA-92,Ágata,Ametista,Topázio,2.0,3.0,4.0,3,Sim,Melhora consistente,Melhorou
+RA-920,,Ágata,Ametista,,2.0,3.0,2,Sim,Melhora consistente,Melhorou
+RA-921,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-922,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-923,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-924,,Ágata,Ágata,,2.0,2.0,2,Sim,Estável,Estável
+RA-925,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-926,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-927,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-928,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-929,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-93,Topázio,,Topázio,4.0,,4.0,2,Sim,Estável,Estável
+RA-930,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-931,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-932,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-933,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-934,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-935,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-936,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-937,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-938,,Ágata,Topázio,,2.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-939,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-94,Topázio,Ametista,Topázio,4.0,3.0,4.0,3,Sim,Oscilou e terminou estável,Estável
+RA-940,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-941,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-942,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-943,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-944,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-945,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-946,,Topázio,Ágata,,4.0,2.0,2,Sim,Piora consistente,Piorou
+RA-947,,Ágata,Ágata,,2.0,2.0,2,Sim,Estável,Estável
+RA-948,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-949,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-95,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-950,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-951,,Topázio,Ágata,,4.0,2.0,2,Sim,Piora consistente,Piorou
+RA-952,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-953,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-954,,Ágata,Topázio,,2.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-955,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-956,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-957,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-958,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-959,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-96,Ametista,Ametista,,3.0,3.0,,2,Sim,Estável,Estável
+RA-960,,Ametista,Quartzo,,3.0,1.0,2,Sim,Piora consistente,Piorou
+RA-961,,Quartzo,Ágata,,1.0,2.0,2,Sim,Melhora consistente,Melhorou
+RA-962,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-963,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-964,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-965,,Ágata,Ágata,,2.0,2.0,2,Sim,Estável,Estável
+RA-966,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-967,,Ametista,Quartzo,,3.0,1.0,2,Sim,Piora consistente,Piorou
+RA-968,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-969,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-97,Ametista,,,3.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-970,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-971,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-972,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-973,,Quartzo,Ágata,,1.0,2.0,2,Sim,Melhora consistente,Melhorou
+RA-974,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-975,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-976,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-977,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-978,,Topázio,Ametista,,4.0,3.0,2,Sim,Piora consistente,Piorou
+RA-979,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-98,Topázio,,Topázio,4.0,,4.0,2,Sim,Estável,Estável
+RA-980,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-981,,Ametista,Ágata,,3.0,2.0,2,Sim,Piora consistente,Piorou
+RA-982,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-983,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-984,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-985,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-986,,Topázio,Topázio,,4.0,4.0,2,Sim,Estável,Estável
+RA-987,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-988,,Ametista,Topázio,,3.0,4.0,2,Sim,Melhora consistente,Melhorou
+RA-989,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-99,Ágata,,,2.0,,,1,Não,Informação insuficiente,Informação insuficiente
+RA-990,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-991,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-992,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-993,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-994,,Ametista,Ametista,,3.0,3.0,2,Sim,Estável,Estável
+RA-995,,Ágata,Quartzo,,2.0,1.0,2,Sim,Piora consistente,Piorou
+RA-996,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-997,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-998,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
+RA-999,,,,,,,0,Não,Informação insuficiente,Informação insuficiente
