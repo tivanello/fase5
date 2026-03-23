@@ -210,9 +210,16 @@ Links da entrega:
 
 Tech Challenge – Fase 05 | Data Analytics (Pos Tech)
 
-Solução completa de Machine Learning aplicada à saúde para estimar tendência à obesidade com base em hábitos e contexto. 
+Desenvolvimento de uma solução analítica e preditiva para identificação antecipada de alunos em risco de defasagem educacional, utilizando dados do programa Passos Mágicos.
 
-O projeto inclui pipeline reprodutível (EDA + feature engineering + treino e avaliação), modelo persistido (.joblib), aplicação Streamlit publicada e dashboard Power BI com insights.
+A solução integra análise de dados, modelagem preditiva e visualização, permitindo transformar indicadores educacionais em apoio à tomada de decisão.
+
+Principais componentes:
+
+* Pipeline de dados estruturado e reprodutível
+* Modelagem preditiva de risco futuro
+* Aplicação interativa para simulação de cenários
+* Dashboard analítico com insights estratégicos
 
 Links da entrega:
 
