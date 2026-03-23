@@ -1,91 +1,71 @@
 # fase5
 
-**Sobre a Associação Passos Mágicos**
-A Associação Passos Mágicos possui 32 anos de atuação, transformando a vida de crianças e jovens de baixa renda por meio da educação.
+🏫 Sobre a Associação Passos Mágicos
+A Associação Passos Mágicos possui 32 anos de atuação, transformando a vida de crianças e jovens de baixa renda e ampliando suas oportunidades por meio da educação.
 
 A iniciativa começou em 1992, idealizada por Michelle Flues e Dimetri Ivanoff, atuando inicialmente em orfanatos no município de Embu-Guaçu.
 
-Em 2016, o programa foi ampliado, consolidando-se como um projeto social e educacional baseado em:
+Em 2016, após anos de atuação, o programa foi ampliado para alcançar mais jovens, consolidando-se como um projeto social e educacional. A fórmula de transformação inclui:
 
-- Educação de qualidade  
-- Apoio psicológico e psicopedagógico  
-- Ampliação da visão de mundo  
-- Desenvolvimento do protagonismo juvenil  
+Educação de qualidade
 
-A missão da associação é utilizar a educação como ferramenta de transformação social.
+Apoio psicológico e psicopedagógico
 
----
+Ampliação da visão de mundo
 
-Sobre o Desafio do Datathon  
+Desenvolvimento do protagonismo juvenil
 
-Com base em um dataset educacional dos anos de 2022, 2023 e 2024, o desafio consiste em:
+A missão da associação é usar a educação como ferramenta para mudar as condições de vida de crianças e jovens em vulnerabilidade social.
 
-- Aplicar técnicas de Data Analytics  
-- Responder às perguntas de negócio  
-- Construir uma narrativa analítica (storytelling)  
-- Desenvolver um modelo preditivo de risco de defasagem  
-- Entregar uma solução com insights e recomendações  
+📁 Sobre o Desafio do Datathon
+Com base em um dataset de pesquisa extensiva sobre o desenvolvimento educacional nos anos 2022, 2023 e 2024, o desafio consiste em:
 
----
+Aplicar técnicas de Data Analytics aprendidas no curso
 
-Perguntas a serem respondidas  
+Responder às dores de negócio apresentadas
 
-(1 a 11 mantidas exatamente como você já colocou — estão corretas)
+Construir uma narrativa analítica (storytelling)
 
----
+Desenvolver um modelo preditivo de risco de defasagem
 
-Entregáveis do Projeto  
+Entregar uma solução final com insights e recomendações
 
-A entrega deve conter **5 itens obrigatórios**:
+❓ Perguntas a serem respondidas na análise
 
-✔️ 1. Repositório GitHub  
-Contendo:
-- Código de tratamento de dados  
-- Análises  
-- Modelagem  
-- Aplicação  
+1. Adequação do nível (IAN)
+Qual é o perfil geral de defasagem dos alunos e como ele evolui ao longo do ano?
+Exemplo: quantos alunos estão moderadamente ou severamente defasados?
 
-✔️ 2. Apresentação (PPT ou PDF)  
-Com storytelling completo:
-- Respostas às perguntas  
-- Insights  
-- Recomendações  
+2. Desempenho acadêmico (IDA)
+O desempenho acadêmico médio está melhorando, estagnado ou caindo ao longo das fases e anos?
 
-✔️ 3. Notebook Python (Modelo Preditivo)  
-Incluindo:
-- Feature engineering  
-- Divisão treino/teste  
-- Treinamento  
-- Avaliação  
+3. Engajamento nas atividades (IEG)
+O grau de engajamento tem relação direta com o desempenho (IDA) e com o ponto de virada (IPV)?
 
-✔️ 4. Aplicação em Streamlit  
-- Interface para uso do modelo  
-- Deploy no Streamlit Community Cloud  
+4. Autoavaliação (IAA)
+As percepções dos alunos sobre si mesmos são coerentes com seu desempenho real (IDA) e engajamento (IEG)?
 
-✔️ 5. Vídeo (até 5 minutos)  
-Apresentando:
-- Contexto do problema  
-- Principais insights  
-- Modelo preditivo  
-- Demonstração da aplicação  
+5. Aspectos psicossociais (IPS)
+Existem padrões psicossociais que antecedem quedas de desempenho ou engajamento?
 
----
+6. Aspectos psicopedagógicos (IPP)
+As avaliações psicopedagógicas confirmam ou contradizem a defasagem identificada pelo IAN?
 
-Plano de Execução do Projeto  
+7. Ponto de virada (IPV)
+Quais comportamentos — acadêmicos, emocionais ou de engajamento — mais influenciam o IPV ao longo do tempo?
 
-### Etapa 1 — Entendimento do problema
-- Leitura do documento do Datathon  
-- Compreensão das perguntas de negócio  
+8. Multidimensionalidade dos indicadores
+Quais combinações de indicadores (IDA + IEG + IPS + IPP) elevam mais a nota global do aluno (INDE)?
 
-### Etapa 2 — Estrutura do projeto
-- Criação do repositório GitHub  
-- Organização das pastas:
+9. Previsão de risco com Machine Learning
+Quais padrões permitem identificar alunos em risco antes da queda no desempenho ou aumento da defasagem?
+Criar um modelo preditivo que estime a probabilidade de risco.
 
+10. Efetividade do programa
+Os indicadores mostram melhora consistente ao longo do ciclo nas fases Quartzo, Ágata, Ametista e Topázio?
 
-
-
-
-
+11. Insights adicionais
+Trazer análises extras, sugestões e oportunidades de melhoria para a Passos Mágicos.
 
 📦 Entregáveis do Projeto
 A entrega deve conter:
