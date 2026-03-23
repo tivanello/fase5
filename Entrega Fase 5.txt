@@ -1,0 +1,15 @@
+Tech Challenge – Fase 05 | Data Analytics (Pos Tech)
+
+Solução completa de Machine Learning aplicada à saúde para estimar tendência à obesidade com base em hábitos e contexto. 
+
+O projeto inclui pipeline reprodutível (EDA + feature engineering + treino e avaliação), modelo persistido (.joblib), aplicação Streamlit publicada e dashboard Power BI com insights.
+
+Links da entrega:
+
+1. App Streamlit: [https://app-risco-defasagem.streamlit.app/]
+
+2. Dashboard Power BI: [https://app.powerbi.com/view?r=eyJrIjoiMGNkNWNjZjQtMDczMS00YzA0LTg0NTMtODJmZDAwNThkNWI1IiwidCI6IjhhZjNmN2Y1LTUzYTQtNDcxYS1hMWI1LWI2N2E5YzQ4YTI1NCJ9&pageName=1b07d33989e06b696b79link]
+
+3. Repositório GitHub: https://github.com/tivanello/fase5
+
+4. Vídeo: [https://www.youtube.com/watch?v=wy9id2wTYm0]
